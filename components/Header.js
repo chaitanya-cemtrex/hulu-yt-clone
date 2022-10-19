@@ -6,7 +6,6 @@ import {
   CollectionIcon,
   HomeIcon,
   LightningBoltIcon,
-  lightningBoltIcon,
   SearchIcon,
   UserIcon
 } from '@heroicons/react/outline'
